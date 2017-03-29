@@ -6,6 +6,6 @@ module.exports = {
         'user': 'remoteRetailer',
         'password': 'Ppsc3375!'
     },
-	'database': 'testing',
+	'database': 'retailer',
     'users_table': 'users'
 };
