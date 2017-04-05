@@ -4,7 +4,7 @@ module.exports = {
         'host': '192.168.1.51',
         'port': '4300',
         'user': 'remoteRetailer',
-        'password': 'Ppsc3375!'
+        'password': '**********'
     },
 	'database': 'retailer',
     'users_table': 'users'
